@@ -22,6 +22,6 @@ architecture, agentic AI, neuro-symbolic systems, and reliable LLM integration.
 - Enterprise architecture and distributed systems
 
 ## Profiles
-
+- Homepage: https//martinrussmann.com
 - LinkedIn: https://www.linkedin.com/in/mrussmann-software/
 - ORCID: 0009-0006-4079-1216
