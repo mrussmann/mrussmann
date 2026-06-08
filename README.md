@@ -5,7 +5,7 @@ architecture, agentic AI, neuro-symbolic systems, and reliable LLM integration.
 
 ## Selected Projects
 
-- [Logic Guard Layer](https://github.com/mrussmann/logic-guard-layer)  
+- [logic-guard-layer](https://github.com/mrussmann/logic-guard-layer)  
   A neuro-symbolic validation layer for detecting and correcting logical
   inconsistencies in LLM outputs using ontology-based physical constraints.
 
