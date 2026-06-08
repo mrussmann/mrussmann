@@ -9,6 +9,10 @@ architecture, agentic AI, neuro-symbolic systems, and reliable LLM integration.
   A neuro-symbolic validation layer for detecting and correcting logical
   inconsistencies in LLM outputs using ontology-based physical constraints.
 
+- [mcat-core](https://github.com/mrussmann/mcat-core)  
+  Reference implementation of the Adaptive Complementarity Framework (ACF) for Human-AI task allocation. Combines Free Energy Principle mathematics with a five-dimensional decision model to determine when to automate,        augment, or defer to human judgment.
+
+
 ## Research Interests
 
 - Human–AI decision systems
