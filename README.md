@@ -12,7 +12,7 @@ architecture, agentic AI, neuro-symbolic systems, and reliable LLM integration.
   A neuro-symbolic validation layer for detecting and correcting logical
   inconsistencies in LLM outputs using ontology-based physical constraints.
 
-- [multi-agent-negotiations]][https://github.com/mrussmann/Multi-Agent-Negotiations]  
+- [multi-agent-negotiations][https://github.com/mrussmann/Multi-Agent-Negotiations]  
   Reference implementation of a multi-agent negotiation framework for decentralized markets. Autonomous, utility-maximizing agents reach equilibrium without a central auctioneer by combining Mean-Field Game theory (Fokker–   Planck/HJB optimization) with a Lightning-style payment-channel network for fast bilateral settlement. Ships with a real-time energy-market simulation an dashboard.
 
 ## Research Interests
