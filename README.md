@@ -15,6 +15,12 @@ architecture, agentic AI, neuro-symbolic systems, and reliable LLM integration.
 - [multi-agent-negotiations](https://github.com/mrussmann/Multi-Agent-Negotiations)  
   Reference implementation of a multi-agent negotiation framework for decentralized markets. Autonomous, utility-maximizing agents reach equilibrium without a central auctioneer by combining Mean-Field Game theory (Fokker–   Planck/HJB optimization) with a Lightning-style payment-channel network for fast bilateral settlement. Ships with a real-time energy-market simulation an dashboard.
 
+- [geometric-macroeconomics](https://github.com/mrussmann/geometric-macroeconomics)  
+  Reference implementation of a geometric framework for systemic-risk analysis that treats the economy as a curved Riemannian manifold. It builds correlation networks from asset returns and computes
+  discrete Ricci curvature (Ollivier-Ricci, Forman-Ricci) and the Fisher information metric as indicators of structural fragility, flagging stress as a deviation of aggregate network curvature from its
+  regime baseline. Grounded in Mach's relational ontology and Einstein's geometrization program, it ships as a pure Python library with data ingestion, network construction, curvature computation, and
+  hypothesis-testing tooling.
+
 ## Research Interests
 
 - Human–AI decision systems
