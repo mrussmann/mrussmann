@@ -25,6 +25,6 @@ architecture, agentic AI, neuro-symbolic systems, and reliable LLM integration.
 
 ## Profiles
 - Homepage / Blog: https://martinrussmann.com
-- Blog Macropoiesis.com: https://blog.macropoiesis.com
+- Blog macropulze.com: https://blog.macropulze.com
 - LinkedIn: https://www.linkedin.com/in/mrussmann-software/
 - ORCID: 0009-0006-4079-1216
