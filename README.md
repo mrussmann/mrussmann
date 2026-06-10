@@ -21,6 +21,9 @@ architecture, agentic AI, neuro-symbolic systems, and reliable LLM integration.
   regime baseline. Grounded in Mach's relational ontology and Einstein's geometrization program, it ships as a pure Python library with data ingestion, network construction, curvature computation, and
   hypothesis-testing tooling.
 
+- [enhanced-rsi](https://github.com/mrussmann/enhanced-rsi)  
+  A pure-Python backend library implementing the Enhanced Relative Strength Index (E-RSI) — a canonical RSI indicator augmented with global M2 money-supply nowcasting and news sentiment, together with a backtesting engine   and a walk-forward parameter-validation suite.
+
 ## Research Interests
 
 - Human–AI decision systems
