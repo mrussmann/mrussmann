@@ -24,6 +24,9 @@ architecture, agentic AI, neuro-symbolic systems, and reliable LLM integration.
 - [enhanced-rsi](https://github.com/mrussmann/enhanced-rsi)  
   A pure-Python backend library implementing the Enhanced Relative Strength Index (E-RSI) — a canonical RSI indicator augmented with global M2 money-supply nowcasting and news sentiment, together with a backtesting engine   and a walk-forward parameter-validation suite.
 
+- [beyond-point-estimate](https://github.com/mrussmann/beyond-point-estimate)  
+  A Python library for distributional equity valuation with constrained Monte Carlo, uncertainty decomposition, and auditable evaluation.
+
 ## Research Interests
 
 - Human–AI decision systems
